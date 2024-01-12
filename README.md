@@ -1,5 +1,4 @@
 Lumina - Pomodoro Website
-https://youtu.be/Cp2rbX5Jup0
 Lumina is a simple and elegant Pomodoro website designed to help you manage your time effectively and boost productivity. The website provides a user-friendly interface for implementing the Pomodoro Technique, a time management method that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
 Features
