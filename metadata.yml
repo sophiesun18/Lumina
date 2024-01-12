@@ -1,0 +1,12 @@
+---
+:id: 218495138
+:submitters:
+- :name: Sophie Xiangyuan Sun
+  :email: sophie_sun@college.harvard.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-12-07 23:17:05.615916000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-12-07 15:17:05.615916000 Z
+:status: processed
+:score: 20.0
